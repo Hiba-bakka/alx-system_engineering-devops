@@ -1,0 +1,4 @@
+#!/bin/bash
+export WATER=10
+export STAR=5
+echo "The result is: $result (in base bestchol)"
